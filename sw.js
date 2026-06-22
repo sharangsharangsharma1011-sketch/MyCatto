@@ -1,4 +1,4 @@
-const CACHE = "sounddash-v1";
+const CACHE = "mycatto-v1";
 const ASSETS = ["/", "/index.html"];
 
 self.addEventListener("install", e => {
