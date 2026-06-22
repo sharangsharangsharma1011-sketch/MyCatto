@@ -1,11 +1,11 @@
 {
-  "name": "SoundDash",
-  "short_name": "SoundDash",
-  "description": "Personal Finance Dashboard",
+  "name": "MyCatto",
+  "short_name": "MyCatto",
+  "description": "MyCatto App",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#000000",
-  "theme_color": "#222224",
+  "theme_color": "#000000",
   "orientation": "portrait",
   "icons": [
     {
